@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">i'm onyx.wtf. a self-taught hobby fullstack developer from germany.<br><br>- 🔭 I’m working as an IT specialist <br>- 📚 I'm currently learning more lua<br>- ⚡ In my free time i code or go to my Boxing Gym<br><br>-🔧 my tech stack: c#, css, html, javascript, typescript, lua, windows terminal, powershell, .net, xaml, express.js, jwt, npm, nextjs, node.js, deno, nodemon, radix ui, react, socket.io, scss, tailwindcss, tauri, vite, vue.js, mariadb, mongodb, mysql, postgres, sqlite, prisma, figma, github, postman,<br>-🌍 You can contact me via discord. (@onyx.wtf)</p>
+<p align="left">i'm onyx.wtf. a self-taught hobby developer from germany.<br><br>- 🔭 I’m working as an IT specialist <br>- 📚 I'm currently learning more lua<br>- ⚡ In my free time i code or go to my Boxing Gym<br><br>-🔧 my tech stack: c#, css, html, javascript, typescript, lua, windows terminal, powershell, .net, xaml, express.js, jwt, npm, nextjs, node.js, deno, nodemon, radix ui, react, socket.io, scss, tailwindcss, tauri, vite, vue.js, mariadb, mongodb, mysql, postgres, sqlite, prisma, figma, github, postman,<br>-🌍 You can contact me via discord. (@onyx.wtf)</p>
 
 ###
 
