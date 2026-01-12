@@ -14,9 +14,10 @@ I am a **self‑taught developer** specializing in **LUA Projexts** and **Discor
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onyx-wtf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+# GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=onyx-wtf&theme=dark&hide_border=false)<br/>
+
+<h3 align="left">:fire:   My Stats :</h3>
 
 
 ## Contact:
