@@ -17,8 +17,6 @@ I am a **self‑taught developer** specializing in **LUA Projexts** and **Discor
 # GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=onyx-wtf&theme=dark&hide_border=false)<br/>
 
-<h3 align="left">:fire:   My Stats :</h3>
-
 
 ## Contact:
 Feel free to contact me trough discord "onyx.wtf"!
