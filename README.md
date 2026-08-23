@@ -4,7 +4,7 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-I am a **self‑taught developer** specializing in **LUA Projexts** and **Discord Stuff** . My main project, **CC-Service**, is a Service for mainly FiveM Stuff and in the Future there will be more stuff. Stay tuned
+I am a **self‑taught developer** specializing in **LUA Projexts** and **Discord Stuff** . My main project, **Elite-PvP**, is a Service for mainly FiveM Stuff and in the Future there will be more stuff. Stay tuned
 
 ## Discord Presence:
 [![Discord Presence](https://lanyard.kyrie25.dev/api/204510435137814528?bg=ffffff&waveColor=9f2248&clanbg=9f2248&hideProfile=false&hideSpotify=false&hideStatus=false&hideDecoration=false&showDisplayName=false&theme=dark&idleMessage=Just%20chilling&waveSpotifyColor=9f2248)](https://discord.com/users/204510435137814528)[!
